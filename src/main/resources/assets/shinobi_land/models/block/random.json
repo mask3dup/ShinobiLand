@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "shinobi_land:blocks/nofilter-fotor-20251030221750",
+    "up": "shinobi_land:blocks/nofilter-fotor-20251030221750",
+    "north": "shinobi_land:blocks/nofilter-fotor-20251030221750",
+    "east": "shinobi_land:blocks/nofilter-fotor-20251030221750",
+    "south": "shinobi_land:blocks/nofilter-fotor-20251030221750",
+    "west": "shinobi_land:blocks/nofilter-fotor-20251030221750",
+    "particle": "shinobi_land:blocks/nofilter-fotor-20251030221750"
+  }
+}
